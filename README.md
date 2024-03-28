@@ -1,7 +1,7 @@
 
 ### Olá! Sou o David Wander ✌️
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/David Pcharlez) 
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/DavidPcharlez) 
 
 ![david wander GitHub stats](https://github-readme-stats.vercel.app/api?username=davidwander&show_icons=true&theme=dracula)
 
