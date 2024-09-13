@@ -1,10 +1,18 @@
+## Olá sou o David 👋
+##### aprendendo a desenvolver com a [RocketSeat](https://www.rocketseat.com.br/)
 
+#### Tecnologias que eu uso no meu dia
 
+- Main language: `JavaScript`
+- Backend: `NodeJS`
+- Frontend: `React`, `HTML5`, `CSS3`, `JavaScript`
+- Layout Design: `Figma`
+- Version code control: `Git`, `Github`
+- Tools: `VsCode`
+#### Contatos:
+- Email: dwander616@gmail.com
+- [Linkedin](https://www.linkedin.com/in/david-wander-621b04301/)
 
-# Tecnologias que eu usos no meu dia
-<div style="display: inline_block"><br/>
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</div><br>
+    
+
 
