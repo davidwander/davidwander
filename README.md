@@ -5,7 +5,7 @@
 
 - Main language: `JavaScript`
 - Backend: `NodeJS`
-- Frontend: `React`, `HTML5`, `CSS3`, `JavaScript`
+- Frontend: `React-native`, `HTML5`, `CSS3`, `JavaScript`
 - Layout Design: `Figma`
 - Version code control: `Git`, `Github`
 - Tools: `VsCode`
