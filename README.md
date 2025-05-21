@@ -1,5 +1,5 @@
 ## Olá sou o David 👋
-##### desenvolvendo com [React Native](https://reactnative.dev/), [Expo](https://docs.expo.dev/router/introduction/)
+##### Desenvolvendo com [React Native](https://reactnative.dev/) e [Expo](https://docs.expo.dev/router/introduction/)
 
 #### Tecnologias que eu uso no meu dia
 
